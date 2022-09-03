@@ -4,6 +4,7 @@ This is a lecture note of an online lesson.
 
 [The link of the lectrue](https://jovian.ai/learn/data-structures-and-algorithms-in-python/)
 
+
 ## Introduction
 
 **Systematic Strategy for solving a problem.**
@@ -41,4 +42,5 @@ Here are some cases we state on the list.
 7. The target number is not in the list.
 
 A validation testing code is packed. 
+
 
